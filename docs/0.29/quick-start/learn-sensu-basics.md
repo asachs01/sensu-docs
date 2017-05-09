@@ -160,7 +160,7 @@ already registered in the Sensu client registry (based on the configured client
 **Learn more:**
 
 - [Client registration & the client registry](#registration-and-registry)
-- [Sensu client keepalives](clients#client-keepalives)
+- [Sensu client keepalives](../reference/clients#client-keepalives)
 
 ### Exercise #2: Configuring your first Sensu check {#exercise-2}
 
